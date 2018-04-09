@@ -19,9 +19,9 @@ div{
 .header{
     max-width: 1490px;
     height: 200px;
-     background-image: url(projectpics/img_9888.gif);
+     background-image: url(Artpics/8388be17636e50854023f5178ecf61e2.gif);
     background-position: center;
-    background-repeat:no-repeat;
+    background-repeat: no-repeat
 }
 
 .Title{
@@ -66,9 +66,9 @@ div{
 h1{
     color: white;
     text-align: center;
-    font-size: 2.95rem;
-    padding-top: 40px;
-    margin-left: 90px;
+    margin-left: 180px;
+    font-size: 3.6rem;
+    padding-top: 128px;
 }
 
 h3{
