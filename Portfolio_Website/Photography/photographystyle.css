@@ -1,9 +1,10 @@
 body{
-    background-color: #fbffff;
+    background-color: black;
+    
 }
 
 div{
-    outline: 2px solid;
+    outline: 2px solid red;
 }
 
 .Container{
@@ -11,6 +12,16 @@ div{
     max-width: 1490px;
     margin-left: auto;
     margin-right: auto;
+    
+
+}
+
+.header{
+    max-width: 1490px;
+    height: 200px;
+     background-image: url(Photographypics/ElderlyCircularGroundhog-size_restricted.gif);
+    background-position: center;
+    background-repeat: no-repeat
 }
 
 .Title{
@@ -19,8 +30,7 @@ div{
     width: 600px;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 30px;
-    
+      
 }
 
 .Content{
@@ -34,4 +44,34 @@ div{
     width: 290px;
     height: 520px;
     float: left;
+}
+
+.nextpage1{
+    width: 200px;
+    height: 80px;
+    float: left;
+    margin-top: 55px;
+    margin-left: 30px;
+    
+}
+
+.nextpage2{
+    width: 200px;
+    height: 80px;
+    float: right;
+    margin-top: 55px;
+    margin-right: 30px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    font-size: 2.5rem;
+    padding-top: 90px;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    font-size: 1.8rem;
 }

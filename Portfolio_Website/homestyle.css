@@ -26,12 +26,10 @@ div{
 
 
 .portfolioboxes{
-    height: 220px;
+    height: 155px;
     width: 400px;
     float: left;
     margin: 16px 15px;
-
-    
 }
 
 .logobox{
@@ -55,4 +53,9 @@ div{
     height: 30px;
     float: left;
     margin-top: 250px;
+}
+
+h1{
+    color: white;
+    text-align: center;
 }
