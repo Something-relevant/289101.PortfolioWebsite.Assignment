@@ -44,6 +44,9 @@ div{
     width: 290px;
     height: 520px;
     float: left;
+    background-image: url(projectpics/redbar234.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 .nextpage1{
@@ -68,11 +71,15 @@ h1{
     text-align: center;
     font-size: 2.95rem;
     padding-top: 40px;
-    margin-left: 90px;
+    margin-left: 130px;
+    font-family: 'Megrim', cursive;
+    text-shadow: 2px 2px 12px white;
 }
 
 h3{
-    color: white;
+    color: #ffc1d1;
     text-align: center;
     font-size: 1.8rem;
+    font-family: 'Megrim', cursive;
+    text-shadow: 2px 2px 9px rgb(255, 103, 167);
 }

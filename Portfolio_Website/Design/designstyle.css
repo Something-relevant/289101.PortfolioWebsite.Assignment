@@ -4,7 +4,7 @@ body{
 }
 
 div{
-    outline: 2px solid red;
+    outline: 2px solid green;
 }
 
 .Container{
@@ -44,6 +44,9 @@ div{
     width: 290px;
     height: 520px;
     float: left;
+    background-image: url(designpics/Greeneeke.jpg);
+    background-position: right;
+    background-repeat: no-repeat;
 }
 
 .nextpage1{
@@ -69,10 +72,14 @@ h1{
     margin-left: 140px;
     font-size: 2.95rem;
     padding-top: 90px;
+    font-family: 'Megrim', cursive;
+    text-shadow: 2px 2px 12px white;
 }
 
 h3{
-    color: white;
+    color: rgb(229, 255, 213);
     text-align: center;
     font-size: 1.8rem;
+    font-family: 'Megrim', cursive;
+    text-shadow: 2px 2px 9px rgb(168, 255, 168);
 }
