@@ -1,10 +1,14 @@
 body{
-    background-color: black;
+    background-color: #000000;
 
 }
 
 div{
     outline: 2px solid red;
+}
+
+img{
+ float: right
 }
 
 .Container{
@@ -18,9 +22,10 @@ div{
     height:750px;
      width: 1060px;
     float: left; 
-    background-image: url(HomePics/Moving_Gif.gif);
-    background-repeat: no-repeat;
-    background-position: right;
+    background-image: url(HomePics/fire.gif);
+    background-repeat:no-repeat;
+    background-position: center;
+    overflow: hidden;
 }
 
 
@@ -30,6 +35,9 @@ div{
     width: 400px;
     float: left;
     margin: 16px 15px;
+    background-image: url(HomePics/Redbar2.jpg);
+    background-position: right;
+    overflow-x: visible;
 }
 
 .logobox{
@@ -49,7 +57,7 @@ div{
 }
 
 .footer{
-    width: 1060px;
+    width: 850px;
     height: 30px;
     float: left;
     margin-top: 250px;
@@ -57,5 +65,15 @@ div{
 
 h1{
     color: white;
-    text-align: center;
+    text-align: left;
+    font-family:'Megrim', cursive;
+    font-kerning:auto;
+    text-align: left;
+    font-size:2.2rem;
+}
+
+p{
+    color: white;
+    font-family: 'Nunito', sans-serif;
+    font-size: 0.8rem
 }
