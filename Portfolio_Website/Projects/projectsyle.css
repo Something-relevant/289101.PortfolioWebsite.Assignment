@@ -76,10 +76,14 @@ h1{
     text-shadow: 2px 2px 12px white;
 }
 
-h3{
+a{
     color: #ffc1d1;
     text-align: center;
     font-size: 1.8rem;
     font-family: 'Megrim', cursive;
     text-shadow: 2px 2px 9px rgb(255, 103, 167);
+}
+
+.nextpage1 a{
+    float:right; 
 }

@@ -4,7 +4,7 @@ body{
 }
 
 div{
-    outline: 2px solid red;
+ 
 }
 
 .Container{
@@ -37,6 +37,7 @@ div{
    width:1200px;
    height:520px;
    overflow-y: scroll;
+   overflow-x: hidden;
    float: left;
 }
 
@@ -77,10 +78,32 @@ h1{
     text-shadow: 2px 2px 12px white;
 }
 
-h3{
+a{
     color: rgb(205, 124, 255);
     text-align: center;
     font-size: 1.8rem;
     font-family: 'Megrim', cursive;
     text-shadow: 2px 2px 8px #f852ff;
+}
+
+.nextpage1 a{
+    float: right;
+}
+
+.Picturebox{
+    width:320px;
+    height: auto;
+    float: left;
+    padding: 20px 20px; 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+   
+}
+
+.Picturebox a{
+    text-decoration: underline;
+    
+       
 }
