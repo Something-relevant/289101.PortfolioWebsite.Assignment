@@ -107,3 +107,29 @@ a{
     
        
 }
+
+.descriptionsuper{
+    
+    width: 216px;
+    float: left;
+    
+}
+
+h4{
+    
+    font-family:'Nunito', sans-serif;
+    color: white;
+    font-size: 1.0rem;
+}
+
+p{
+    color: white;
+    font-family:'Nunito', sans-serif;
+}
+
+.descriptionsuper a{
+    
+    color: white;
+    font-size: 1.0rem;
+    font-family: 'Nunito',sans-serif;
+}
