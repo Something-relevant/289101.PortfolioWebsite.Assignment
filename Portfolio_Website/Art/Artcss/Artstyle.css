@@ -19,7 +19,7 @@ div{
 .header{
     max-width: 1490px;
     height: 200px;
-     background-image: url(Artpics/8388be17636e50854023f5178ecf61e2.gif);
+    background-image: url(Artpics/8388be17636e50854023f5178ecf61e2.gif);
     background-position: center;
     background-repeat: no-repeat
 }
@@ -91,12 +91,11 @@ a{
 }
 
 .Picturebox{
-    width:320px;
-    height: auto;
+    width: 300px;
+    height: 320px;
+    padding: 20px 40px;
+    margin-left: 10px;
     float: left;
-    padding: 20px 20px; 
-    margin-left: auto;
-    margin-right: auto;
     text-align: center;
     
    
