@@ -110,3 +110,11 @@ p{
     font-size: 1.0rem;
     font-family: 'Nunito',sans-serif;
 }
+
+.Content h1{
+    
+  margin-left: auto;
+  margin-right: auto;
+    text-align: center;
+    
+}
